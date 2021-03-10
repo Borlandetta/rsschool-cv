@@ -39,8 +39,10 @@ function dateGet(d) {
 
   dateGet (dateNew);
 ```
-
+---
 ### **Education**:
 _My IT School_ - 2020.
 
 ---
+### **Language**:
+* English - B1.
