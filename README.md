@@ -1,2 +1,2 @@
 # rsschool-cv
-https://borlandetta.github.io/rsschool-cv/cv
+https://borlandetta.github.io/rsschool-cv/
